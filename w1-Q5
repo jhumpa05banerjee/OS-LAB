@@ -1,0 +1,39 @@
+https://github.com/TuShArBhArDwA/Basic-Calculator-C/blob/main/calculator.c
+
+Code Structure Analysis and Function Documentation
+
+1. main()
+
+Role Acts as the entry point of the program.
+
+Functionality
+
+Displays a menu with options for arithmetic operations and exit.
+
+Takes user input to choose an operation.
+
+Calls the corresponding function based on user choice.
+
+Runs in an infinite loop until the user selects "Exit".
+
+2. add()
+
+Purpose: Adds two numbers entered by the user.
+
+Steps
+
+Prompts the user to enter two numbers.
+
+Reads the numbers using scanf
+
+Calculates their sum
+
+Prints the result formatted to 2 decimal places.
+
+3. subtract()
+
+Purpose: Subtracts the second number from the first
+
+Steps
+
+Prompts for two inputs
